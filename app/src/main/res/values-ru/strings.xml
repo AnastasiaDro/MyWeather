@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя погода</string>
+    <string name="city">город</string>
+    <string name="temperature">темп C</string>
+    <string name="temperature_limits">14/21</string>
+    <string name="nesty">Облачно</string>
+    <string name="daily">Выберите день</string>
+</resources>
