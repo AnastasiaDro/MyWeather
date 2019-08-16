@@ -5,4 +5,5 @@
     <string name="temperature_limits">14/21</string>
     <string name="nesty">Nesty</string>
     <string name="daily">Select day</string>
+    <string name="change">Change</string>
 </resources>
