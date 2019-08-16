@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CityActivity"
+            android:label="@string/set_city">
+        </activity>
     </application>
 
 </manifest>

@@ -7,4 +7,6 @@
     <string name="nesty">Облачно</string>
     <string name="daily">Выберите день</string>
     <string name="change">Изменить</string>
+    <string name="set_city">Выберите город</string>
+    <string name="most_popular">Наиболее популярные</string>
 </resources>

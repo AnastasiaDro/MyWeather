@@ -86,9 +86,10 @@
             app:layout_constraintTop_toTopOf="@+id/textView10" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/changeBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="onChangeClick"
             android:text="@string/change"
             app:layout_constraintBottom_toBottomOf="@+id/textView10"
             app:layout_constraintEnd_toEndOf="parent"

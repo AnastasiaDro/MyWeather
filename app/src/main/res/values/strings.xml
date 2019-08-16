@@ -6,4 +6,6 @@
     <string name="nesty">Nesty</string>
     <string name="daily">Select day</string>
     <string name="change">Change</string>
+    <string name="set_city">Set city</string>
+    <string name="most_popular">Most popular</string>
 </resources>
