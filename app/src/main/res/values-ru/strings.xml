@@ -9,4 +9,9 @@
     <string name="change">Изменить</string>
     <string name="set_city">Выберите город</string>
     <string name="most_popular">Наиболее популярные</string>
+    <string name="first_start">Первый старт</string>
+    <string name="enter_city">Введите город</string>
+    <string name="show_cloudiness">Облачность</string>
+    <string name="show_wind_speed">Скорость ветра</string>
+    <string name="defaultCity">Москва</string>
 </resources>

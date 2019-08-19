@@ -8,4 +8,9 @@
     <string name="change">Change</string>
     <string name="set_city">Set city</string>
     <string name="most_popular">Most popular</string>
+    <string name="first_start">First start</string>
+    <string name="enter_city">Enter city</string>
+    <string name="show_cloudiness">Show cloudiness</string>
+    <string name="show_wind_speed">Show wind speed</string>
+    <string name="defaultCity">London</string>
 </resources>
