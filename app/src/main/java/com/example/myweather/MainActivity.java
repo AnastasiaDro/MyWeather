@@ -9,9 +9,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
-
-
     static final private int CHOOSE_CITY = 0;
 
     @Override
